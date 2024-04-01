@@ -55,4 +55,3 @@ If you'd like to contribute to Task Keeper, please fork the repository and creat
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Feel free to modify the content as needed to fit your application and add any additional sections or details.
