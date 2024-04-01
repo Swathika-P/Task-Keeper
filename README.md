@@ -1,4 +1,3 @@
-```markdown
 # Task Keeper
 
 Task Keeper is a simple to-do list application built with React and Vite. It allows users to add, delete, and manage their tasks.
@@ -11,7 +10,6 @@ To run Task Keeper locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/task-keeper.git
-   ```
 
 2. Navigate to the project directory:
 
@@ -37,14 +35,14 @@ This will launch the Task Keeper application in your default web browser.
 
 ## Usage
 
-- To add a new task, click on the "Add Task" button and enter the task details.
+- To add a new task, click on the "+" button and enter the task details.
 - To delete a task, click on the delete icon next to the task.
-- To mark a task as complete, click on the checkbox next to the task.
 
 ## Technologies Used
 
 - React
 - Vite
+- Material-UI
 
 ## Contributing
 
